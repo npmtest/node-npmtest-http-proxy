@@ -1,6 +1,6 @@
 # npmtest-http-proxy
 
-#### test coverage for  [http-proxy (v1.16.2)](https://github.com/nodejitsu/node-http-proxy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-http-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-http-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-http-proxy.svg)](https://travis-ci.org/npmtest/node-npmtest-http-proxy)
+#### basic test coverage for  [http-proxy (v1.16.2)](https://github.com/nodejitsu/node-http-proxy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-http-proxy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-http-proxy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-http-proxy.svg)](https://travis-ci.org/npmtest/node-npmtest-http-proxy)
 
 #### HTTP proxying for the masses
 
